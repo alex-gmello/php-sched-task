@@ -1,4 +1,4 @@
-ymfony com PHP 8, Nginx e MySQL 8
+# 🧱 Projeto Symfony com PHP 8, Nginx e MySQL 8
 
 Este é um projeto baseado no framework **Symfony**, desenvolvido em **PHP 8**, utilizando **Nginx** como servidor web e **MySQL 8** como banco de dados.
 
@@ -122,4 +122,3 @@ php bin/console doctrine:schema:update --force  # Atualizar schema do banco
 
 ## 📜 Licença
 Este projeto está licenciado sob a [MIT License](https://mit-license.org/).
-
